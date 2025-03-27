@@ -1,15 +1,14 @@
-# 🚀 Portfolio Website
+# 🚀 Google Home Pgae
 
-Welcome to my personal portfolio! This website showcases my skills, projects, and experiences as a **Full Stack Developer**.
-
+Wekcome to my landing page which is a replica of Google home page.
 ## 🖥️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript
+- **Frontend:** HTML5, CSS3
 - **Deployment:** Render
 
 
 ## 🚀 Deployment
 Deployed on **Render** for both frontend and backend.
-- [Live Site](https://my-portfolio-g9v8.onrender.com)
+- [Live Site](https://google-1-ivdc.onrender.com/)
 
 ## 👨‍💻 About Me
 I'm Jaswanth, a passionate **Full Stack Developer** with a background in support and a strong focus on building scalable web applications. Connect with me:
